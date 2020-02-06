@@ -15,3 +15,7 @@ header{
 #icone{
     display: flex;
 }
+section{
+    background-color: grey;
+    margin-top: auto;
+}
